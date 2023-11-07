@@ -1,0 +1,3 @@
+[submodule "RaceBenchData"]
+	path = RaceBenchData
+	url = https://github.com/rb130/RaceBenchData.git
